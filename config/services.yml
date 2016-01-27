@@ -1,0 +1,5 @@
+services:
+    dmzx.note.listener:
+        class: dmzx\note\event\listener
+        tags:
+            - { name: event.listener }

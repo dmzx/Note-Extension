@@ -1,0 +1,34 @@
+.note-box {
+    background-color: #ebebeb;
+    border: 1px solid #bbb;
+    border-radius: 5px;
+    color: #333;
+    font-size: 12px;
+    margin-bottom: 10px;
+    padding: 7px;
+    text-align: justify;
+}
+
+.note-box.blue {
+    background-color: #e0eeff;
+    border-color: #6b92bd;
+    color: #115098;
+}
+
+.note-box.yellow {
+    background-color: #FFFDC4;
+    border-color: #FFE403;
+    color: #333300;
+}
+
+.note-box.green {
+    background-color: #e5ffdf;
+    border-color: #43a347;
+    color: #043300;
+}
+
+.note-box.red {
+    background-color: #ffdfdf;
+    border-color: #a30004;
+    color: #330002;
+}
