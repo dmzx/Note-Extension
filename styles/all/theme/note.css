@@ -1,34 +1,41 @@
 .note-box {
     background-color: #ebebeb;
     border: 1px solid #bbb;
-    border-radius: 5px;
+    border-radius: 6px;
     color: #333;
     font-size: 12px;
     margin-bottom: 10px;
-    padding: 7px;
+    padding: 2px 6px;
     text-align: justify;
+	width: auto;
+	margin-right: 60px;
 }
-
 .note-box.blue {
-    background-color: #e0eeff;
+    background-color: #94c4ff;
     border-color: #6b92bd;
     color: #115098;
 }
 
 .note-box.yellow {
-    background-color: #FFFDC4;
+    background-color: #fffa78;
     border-color: #FFE403;
     color: #333300;
 }
 
 .note-box.green {
-    background-color: #e5ffdf;
+    background-color: #a7ff93;
     border-color: #43a347;
     color: #043300;
 }
 
 .note-box.red {
-    background-color: #ffdfdf;
+    background-color: #ff9393;
     border-color: #a30004;
     color: #330002;
+}
+
+.note-box.black {
+    background-color: #2D2D2D;
+    border-color: #000000;
+    color: #999999;
 }

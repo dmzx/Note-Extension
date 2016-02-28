@@ -3,8 +3,8 @@
 	"type": "phpbb-extension",
 	"description": "This extension will add a note bbCode selection box in posting template.",
 	"homepage": "http://www.dmzx-web.net",
-	"version": "1.0.0",
-	"time": "2016-01-24",
+	"version": "1.0.1",
+	"time": "2016-01-31",
 	"keywords": ["phpbb", "extension", "Note Extension"],
 	"license": "GPL-2.0",
 	"authors": [

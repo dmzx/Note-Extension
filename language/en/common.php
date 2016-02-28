@@ -45,5 +45,6 @@ $lang = array_merge(
 		'NOTE_YELLOW_EXPLAIN'		=> 'Note: Yellow',
 		'NOTE_GREEN_EXPLAIN'		=> 'Note: Green',
 		'NOTE_RED_EXPLAIN'			=> 'Note: Red',
+		'NOTE_BLACK_EXPLAIN'		=> 'Note: Black',
 	)
 );
